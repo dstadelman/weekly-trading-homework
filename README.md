@@ -2,7 +2,7 @@
 
 Tools and utilities to help get starting performing weekly trading homework. 
 
-**USE AT YOUR OWN RISK**: [These materials are released under MIT license unless otherwise noted.](LICENSE) None of these tools will help you get rich quick. They provide an overview in the general market action that you can take 20 minutes a week to look at to provide yourself with a reference to what is is going on in the market.
+**USE AT YOUR OWN RISK**: [These materials are released under MIT license unless otherwise noted.](LICENSE) None of these tools will help you get rich quick. They provide an overview in the general market action that you can take 20 minutes a week to look at to provide yourself with a reference to what is is going on in a small section of the stock market.
 
 ## Background
 
