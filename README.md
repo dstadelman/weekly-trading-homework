@@ -44,7 +44,7 @@ You can load any of the thinkorswim resources with the `Open Shared item...` men
 | [sectors Excel Sheet](sectors.xlsx) | Displays different sectors and relative performance. Can easily be changed to use any symbol that Excel supports by changing the instruments on the top of the data tab (B1, I1 and so on). I usually make them stock data types using the data ribbon. Requires subscription to Office 365.<br/><br/> ![Excel Ticker Change Example](excel_ticker_change_example.png)|
 | [global_equities Excel Sheet](global_equities.xlsx) | Copy and paste of sectors Excel sheet with different tickers that I like to compare |
 | [thinkorswim Weeklies with Earnings Scan](http://tos.mx/hhCQlH0) | Scan for instruments that <br/>- have earnings coming up <br/>- have weekly options <br/>- liquid |
-| [thinkorswim Days to Earnings Report (er_days)](http://tos.mx/wTGX9rH) | Used with the Weeklies with Earnings Scan to sort the list in the watchlist. Import the script and use the customize wheel on the top right od the watchlist widget. <br/><br/> ![Earnings Watchlist](earings_watchlist.png) |
+| [thinkorswim Days to Earnings Report (er_days)](http://tos.mx/wTGX9rH) | Used with the Weeklies with Earnings Scan to sort the list in the watchlist. Import the script and use the customize wheel on the top right of the watchlist widget. <br/><br/> ![Earnings Watchlist](earings_watchlist.png) |
 | [CME FedWatch Tool](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html) | Gives current market generated probabilities for Interest Rates |
 
 
