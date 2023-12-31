@@ -14,7 +14,7 @@ Are you a better fighter because you've watched UFC? Know a lot about driving ca
 
 You might pick up some small technique or thing to try while watching - but only if you are actively engaged in these activities.
 
-Ya gotta do the work yourself as it's really the only way to synthesize the data into your brain - otherwise, you're just a spectator. 
+Ya gotta do the work yourself as it's really the only way to synthesize the data into your brain - otherwise, **you're just a spectator**. 
 
 I've decided to dump all the tools I've been using to generate weekly updates in hopes that folks might find them useful in doing their own homework. I hope you modify these materials for yourself. They are purposefully designed to be not predictive - this is your brain's job. The tools help one think about the overall context of the market and what is happening in it without noise from the news or social media.
 
