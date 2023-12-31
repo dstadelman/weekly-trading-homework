@@ -12,7 +12,7 @@ Think about it.
 
 Are you a better fighter because you've watched UFC? Know a lot about driving cars because you've seen a F1 races? A better gymnast because you watched the Olympics?
 
-Newsletters are the same. You're reading someone else's work. You don't actually have a handle on what you are reading in totality. 
+You might pick up some small technique or thing to try while watching - but only if you are actively engaged in these activities.
 
 Ya gotta do the work yourself as it's really the only way to synthesize the data into your brain - otherwise, you're just a spectator. 
 
