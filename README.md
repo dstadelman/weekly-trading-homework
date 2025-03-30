@@ -4,20 +4,6 @@ Tools and utilities to help get starting performing weekly trading homework.
 
 **USE AT YOUR OWN RISK**: [These materials are released under MIT license unless otherwise noted.](LICENSE) None of these tools will help you get rich quick. They provide an overview in the general market action that you can take 20 minutes a week to look at to provide yourself with a reference to what is is going on in a small section of the stock market.
 
-## Background
-
-I think financial / trading newsletters are more often than not a waste of time and money. I don't think anyone should pay for newsletter or put much importance on what they say. Newsletters at best deliver some small nugget of useful information and at worst put the reader in the mindset of a spectator (which is usually the case). 
-
-Think about it. 
-
-Are you a better fighter because you've watched UFC? Know a lot about driving cars because you've seen a F1 races? A better gymnast because you watched the Olympics?
-
-You might pick up some small technique or thing to try while watching - but only if you are actively engaged in these activities.
-
-Ya gotta do the work yourself as it's really the only way to synthesize the data into your brain - otherwise, **you're just a spectator**. 
-
-I've decided to dump all the tools I've been using to generate weekly updates in hopes that folks might find them useful in doing their own homework. I hope you modify these materials for yourself. They are purposefully designed to be not predictive - this is your brain's job. The tools help one think about the overall context of the market and what is happening in it without noise from the news or social media.
-
 ## Contributions
 
 If you have other resources you look at each week, I would love to add them to the list. I want to ensure that anything added to the list is free / low cost and is not predictive or prescriptive in nature. Feel free to make a Pull Request or create an Issue with the resource. 
